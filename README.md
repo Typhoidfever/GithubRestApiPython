@@ -5,7 +5,9 @@ This repository represent realization of minimal testing framework, based on req
 using GitHub REST API v3
 
 2. Framework structure:
+
 2.1 api frolder:
+
 2.1.1 api_requests.py: Store class Apirequests that consists of methods that represent major REST API requests
 2.1.2 api_responce.py: Store class Apiresponce that consists of  basic methods for response validation
 2.2 test folder:
