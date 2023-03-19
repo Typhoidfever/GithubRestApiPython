@@ -1,6 +1,7 @@
 # GithubRestApiPython
 
 1. Summary:
+
 This repository represent realization of minimal testing framework, based on requests and pytest libraries to perform testing of basic actions, present on github.com
 using GitHub REST API v3
 
