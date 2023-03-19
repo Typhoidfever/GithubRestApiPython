@@ -1,0 +1,2 @@
+422
+{'message': 'Unprocessable Entity', 'errors': ['Can not approve your own pull request'], 'documentation_url': 'https://docs.github.com/rest/reference/pulls#create-a-review-for-a-pull-request'}
